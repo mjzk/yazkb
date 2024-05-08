@@ -1,0 +1,3 @@
+[toolchain]
+components = ["rustfmt", "rust-src"]
+profile = "minimal"
