@@ -5,7 +5,7 @@
   <a href="https://mjzk.xyz/yazkb/"><em>Read the benchmark report</em></a>
 </p>
 
-The YAZKB (Yet Another ZK Benchmark) project aims to offer an end-to-end, cutting-edge, and production-focused perspective by providing a unified, open and contemporary performance evaluation of the key zero-knowledge libraries, frameworks, and virtual machines.
+The YAZKB (Yet Another Zero Knowledge Benchmark) project aims to offer an end-to-end, cutting-edge, and production-focused perspective by providing a unified, open and contemporary performance evaluation of the key zero-knowledge libraries, frameworks, and virtual machines.
 
 # Features
 
