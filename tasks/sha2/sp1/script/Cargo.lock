@@ -4039,6 +4039,7 @@ name = "sha2-script"
 version = "0.1.0"
 dependencies = [
  "itertools 0.12.1",
+ "rand",
  "sha2",
  "sp1-helper",
  "sp1-sdk",
